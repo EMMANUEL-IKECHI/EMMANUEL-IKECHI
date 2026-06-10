@@ -4,7 +4,9 @@ Frontend Developer building toward Full-Stack Engineering.
 
 I focus on creating responsive, user-friendly web interfaces using modern JavaScript tools. My background in graphic design influences how I approach development — combining clean code with thoughtful design and usability.
 
-I am currently a Computer Science undergraduate (B.Tech, 2027) and a Tutor Lead at the Interswitch Developer Community, where I help developers learn web technologies and build real projects.
+I am currently a Computer Science undergraduate (B.Tech, 2027) and actively involved in developer communities where I contribute to learning, collaboration, and community growth.
+
+I serve as a Tutor Lead at the Interswitch Developer Community (IDC-FUTO) and a Core Team Member & Social Media Manager at the AWS Student Builder Group FUTO, where I help shape community learning experiences and digital engagement.
 
 ---
 
@@ -14,6 +16,7 @@ I am currently a Computer Science undergraduate (B.Tech, 2027) and a Tutor Lead 
 - Strengthening my **JavaScript architecture skills**
 - Expanding into **Node.js and backend development**
 - Exploring the fundamentals of **cybersecurity**
+- Growing technical communities through **education and digital storytelling**
 
 ---
 
@@ -35,6 +38,23 @@ I am currently a Computer Science undergraduate (B.Tech, 2027) and a Tutor Lead 
 - Advanced React patterns
 - Backend development with Node.js
 - API design
+
+---
+
+## 👥 Community Roles
+
+### AWS Student Builder Group FUTO  
+Core Team Member & Social Media Manager  
+- Contributing to strategic planning and execution of community initiatives  
+- Managing and growing the community’s digital presence across social platforms  
+- Creating and publishing content that promotes learning, events, and member achievements  
+- Collaborating with the core team to strengthen engagement and community visibility  
+
+### Interswitch Developer Community (IDC-FUTO)  
+Tutor Lead  
+- Supporting learning and technical growth within the developer community  
+- Coordinating learning sessions and collaborative activities  
+- Helping members stay consistent and project-driven  
 
 ---
 
@@ -91,7 +111,7 @@ The goal is simple:
 ## 📫 Connect With Me
 
 Email: ikechiemmanuelice@gmail.com  
-LinkedIn: www.linkedin.com/in/emmanuel-ikechi-59442323a
+LinkedIn: www.linkedin.com/in/emmanuel-ikechi-59442323a  
 
 ---
 
