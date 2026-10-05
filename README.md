@@ -1,211 +1,269 @@
-# Hi, I'm Emmanuel Ikechi 👋
+<div align="center">
 
-**Frontend Developer (React) building toward Full-Stack Engineering.**
+# 👋 Hi, I'm Emmanuel Ikechi
 
-I'm a Computer Science undergraduate at the Federal University of Technology, Owerri (FUTO), with a focus on building practical web applications and strengthening my software engineering fundamentals.
+### Frontend Developer (React) · Building toward Full-Stack Engineering
 
-I started with HTML, CSS, and JavaScript, and have since grown into React and the broader JavaScript ecosystem. I'm currently deepening my understanding of TypeScript, backend development, APIs, databases, authentication, and application architecture.
+**Computer Science @ FUTO · Tutor Lead @ IDC-FUTO · AWS SBG Core Team**
 
-My background in graphic design also influences how I approach development. I care about both **how software works and how people experience it**.
+<br />
 
-Beyond coding, I contribute to developer communities through technical education, mentorship, and community building.
+<a href="https://github.com/EMMANUEL-IKECHI">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/emmanuel-ikechi-59442323a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ikechiemmanuelice@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-I currently serve as a **Tutor Lead at the Interswitch Developer Community (IDC-FUTO)** and as a **Core Team Member & Social Media Manager at the AWS Student Builder Group FUTO**.
-
----
-
-## 🚀 Current Focus
-
-* Building production-minded frontend applications with **React and TypeScript**
-* Strengthening my **JavaScript and software engineering fundamentals**
-* Building backend services with **Node.js and Express**
-* Working with **REST APIs, databases, authentication, and application architecture**
-* Exploring **Next.js** and modern full-stack development
-* Building a practical foundation in **cybersecurity and application security**
-* Learning through projects, community involvement, and consistent practice
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🧑🏽‍💻 About Me
 
-### Frontend
+I'm a Computer Science undergraduate at the **Federal University of Technology, Owerri (FUTO)** focused on building practical software and becoming a stronger engineer.
 
-* HTML
-* CSS
-* JavaScript
-* TypeScript
+My journey started with **HTML, CSS, and JavaScript**, and has grown into React, TypeScript, backend development, databases, and modern web application architecture.
+
+I care about more than making an interface look good or getting an application to work. I'm actively working toward understanding the **systems, architecture, and engineering decisions behind the software I build**.
+
+Outside of development, I contribute to student developer communities through **technical education, mentorship, and community building**.
+
+> 🎯 **Current direction:** React → Full-Stack → Cloud & Application Security
+
+---
+
+## ⚡ What I'm Working On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Frontend
+
+Building responsive, maintainable interfaces with:
+
 * React
+* TypeScript
 * Next.js
 * Tailwind CSS
-* React Router
 * React Query
 * React Hook Form
 
-### Backend & Databases
+</td>
+<td width="50%">
+
+### ⚙️ Backend
+
+Strengthening my backend engineering skills through:
 
 * Node.js
 * Express
-* PHP
+* REST APIs
 * PostgreSQL
-* MySQL
 * MongoDB
 * Prisma
-* Supabase
+* Authentication
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 Engineering
+
+Currently improving my understanding of:
+
+* Software architecture
+* API design
+* Database design
+* Authentication & authorization
+* Testing
+* Git workflows
+
+</td>
+<td width="50%">
+
+### 🔐 Security
+
+Building a practical foundation in:
+
+* Web security
+* Application security
+* Security fundamentals
+* Ethical hacking
+* Secure application design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,mysql,mongodb,prisma,supabase" />
 
 ### Tools & Platforms
 
-* Git & GitHub
-* Figma
-* VS Code
-* Vercel
-* Netlify
-* Render
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,netlify" />
 
-### Currently Deepening
+</div>
 
-* TypeScript
-* React architecture
-* Backend engineering with Node.js
-* API design
-* Authentication & authorization
-* Database design
-* Software engineering practices
-* Application security
+---
+
+## 🚀 Featured Projects
+
+### 📚 StudentBoard
+
+**A departmental information platform for Computer Science students at FUTO.**
+
+A full-stack application for centralising announcements, events, and academic timetables.
+
+**Stack**
+
+`React` `Node.js` `PostgreSQL` `REST API`
+
+**Focus**
+
+`Frontend Architecture` · `API Integration` · `Database Design` · `Product UX`
+
+<a href="https://github.com/EMMANUEL-IKECHI/Student-board">View Repository →</a>
+
+---
+
+### 🤝 FUTO Aid
+
+**A student-focused fundraising platform built through the Interswitch Developer Community at FUTO.**
+
+Contributed to features including reviewer dashboards, protected routes, campaign views, campaign sharing, and live donation progress.
+
+**Focus**
+
+`React` · `React Query` · `Authentication` · `Role-Based Access` · `Forms` · `State Management`
+
+---
+
+### 🛒 Bulk Buy
+
+**A collaborative purchasing platform designed around group buying and wholesale pricing.**
+
+Worked on frontend interfaces and product interaction flows as part of a collaborative development effort.
+
+**Focus**
+
+`React` · `UI Development` · `Product Flows` · `Team Collaboration`
+
+---
+
+### 🎵 Solfa-to-Note Converter
+
+A project exploring the conversion of solfa notation into standard musical notes.
+
+**Focus**
+
+`Application Logic` · `Input Processing` · `Frontend Interaction`
 
 ---
 
 ## 👥 Community & Leadership
 
-### AWS Student Builder Group FUTO
+<table>
+<tr>
+<td>
 
-**Core Team Member & Social Media Manager**
+### ☁️ AWS Student Builder Group FUTO
 
-* Contribute to planning and execution of community initiatives
-* Manage the community's digital presence across social platforms
-* Create and publish content around AWS, cloud computing, events, opportunities, and member achievements
-* Collaborate with the core team to improve community engagement and visibility
-* Help communicate technical opportunities to students and aspiring builders
+**Core Team Member · Social Media Manager**
 
-### Interswitch Developer Community (IDC-FUTO)
+I contribute to community strategy, digital engagement, content creation, event promotion, and communicating technical opportunities to student builders.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 💻 Interswitch Developer Community FUTO
 
 **Tutor Lead**
 
-* Support members in their technical learning and development
-* Coordinate learning sessions and collaborative activities
-* Help learners move from learning concepts to building projects
-* Encourage consistency, practical learning, and peer collaboration
+I support technical learning within the community by coordinating learning activities, helping members understand technical concepts, and encouraging project-based learning.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Featured Projects
+## 📖 Learning in Public
 
-### StudentBoard
+I'm documenting my development journey through the **#JustLearntChallenge**.
 
-A departmental information platform built for Computer Science students at FUTO.
+The idea is simple:
 
-The application provides a central place for students to access announcements, events, and academic timetables.
+> **Learn consistently. Build deliberately. Understand what you're building.**
 
-**Built with:**
-
-* React
-* Node.js
-* PostgreSQL
-* REST API
-
-**Key Focus:**
-
-* Frontend application architecture
-* REST API integration
-* Database-backed features
-* Student-focused product design
-
-🔗 [View the project](https://github.com/EMMANUEL-IKECHI/Student-board)
+I use the challenge to share concepts, discoveries, mistakes, and lessons from my journey as I grow from frontend development toward full-stack engineering.
 
 ---
 
-### FUTO Aid
+## 🧭 The Road Ahead
 
-A student-focused fundraising platform built with the Interswitch Developer Community at FUTO.
+I'm deliberately building toward becoming a **strong frontend engineer with solid full-stack capabilities**.
 
-I contributed to features around the reviewer dashboard, protected routes, student campaign views, campaign sharing, and live donation progress.
+My longer-term interests sit at the intersection of:
 
-**Key Focus:**
+```text
+Software Engineering
+        ↓
+Full-Stack Development
+        ↓
+Cloud
+        ↓
+Application Security
+```
 
-* React application development
-* Role-based authentication and protected routes
-* React Query
-* Form handling
-* State management
-* Dashboard interfaces
-* Real-time data updates
-
----
-
-### Bulk Buy
-
-A collaborative purchasing platform designed to help users collectively purchase products at wholesale prices.
-
-**Key Focus:**
-
-* Frontend development
-* Product interaction flows
-* Responsive UI
-* Team collaboration
-* Translating product requirements into interfaces
+I'm less interested in collecting technologies and more interested in developing the ability to **design, build, debug, secure, and explain software well.**
 
 ---
 
-### Solfa-to-Note Converter
+## 📊 GitHub Activity
 
-A project exploring the conversion of solfa notation into standard musical notes.
+<div align="center">
 
-**Key Focus:**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EMMANUEL-IKECHI&show_icons=true&hide_border=true&rank_icon=github" />
 
-* Application logic
-* Input processing
-* Frontend interaction
-* Problem-solving through software
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMMANUEL-IKECHI&layout=compact&hide_border=true" />
 
----
-
-## 🌱 Learning in Public
-
-I document what I'm learning through my **#JustLearntChallenge**, sharing concepts, discoveries, and lessons from my journey as a developer.
-
-The goal is simple:
-
-**Learn consistently. Build deliberately. Understand what I'm building.**
-
-I'm particularly interested in moving beyond simply making applications work and developing a stronger understanding of **why systems are designed the way they are**.
+</div>
 
 ---
 
-## 🎯 Where I'm Heading
+<div align="center">
 
-My immediate goal is to become a strong **Frontend Engineer with solid full-stack capabilities**.
+### Let's build something useful.
 
-Long term, I'm interested in the intersection of:
+**Always learning. Always building.**
 
-**Software Engineering × Cloud × Application Security**
+<br />
 
-I'm building toward that through practical projects, deeper technical fundamentals, and hands-on experience rather than trying to learn everything at once.
+<a href="mailto:ikechiemmanuelice@gmail.com">
+  <img src="https://img.shields.io/badge/Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/emmanuel-ikechi-59442323a">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 📊 GitHub Stats
-
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMMANUEL-IKECHI\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EMMANUEL-IKECHI\&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-* **Email:** [ikechiemmanuelice@gmail.com](mailto:ikechiemmanuelice@gmail.com)
-* **LinkedIn:** [linkedin.com/in/emmanuel-ikechi-59442323a](https://www.linkedin.com/in/emmanuel-ikechi-59442323a)
-* **GitHub:** [github.com/EMMANUEL-IKECHI](https://github.com/EMMANUEL-IKECHI)
-
----
-
-> **Always learning. Always building.**
+</div>
